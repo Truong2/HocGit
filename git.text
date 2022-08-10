@@ -5,3 +5,4 @@ Repository (Repo) : 1 kho , thư mục dự án
 - git status: trạng thái của dự án
 - git add : cbi luu lại file đó
 - git reset: ko lưu nữa
+- git commit -m "ghi chú"
