@@ -1,6 +1,7 @@
 # Terms
 Repository (Repo) : 1 kho , thư mục dự án
 branch : Cành ( mặc định là master)
+Conflict : xung đột
 # Commands
 - git init: làm dự án trở thành 1 git Repo
 - git status: trạng thái của dự án
@@ -13,12 +14,9 @@ branch : Cành ( mặc định là master)
 - git checkout (branch name)
 - git branch: xem tên name
 - git checkout -b (branch name) : tạo 1 branch
-<<<<<<< HEAD
 Khi muốn tạo 1 branch và làm việc ở đó vd là thêm 1 file mới
 Thì cần lưu nó lại ở nhánh đó
 Nếu muốn sang nhánh khác thì dùng:
 - git checkout (branch name) : file lưu ở nhánh kia sẽ bị mất do ta trở về nhánh khác
 - git merge (branch name) : gộp lại 1 branch mình muốn làm cha
-=======
->>>>>>> developer
 - git branch -d (branch name) : xóa branch
