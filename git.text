@@ -12,4 +12,4 @@ branch : Cành ( mặc định là master)
 - git checkout: trở lại commit muốn
 - git checkout (branch name)
 - git branch: xem tên name
-- git checkout -b (branch name)
+- git checkout -b (branch name) : tạo 1 branch
