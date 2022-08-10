@@ -1,7 +1,7 @@
 # Terms
 Repository (Repo) : 1 kho , thư mục dự án
 branch : Cành ( mặc định là master)
-Conflict : xung đột
+conflict : xung đột
 # Commands
 - git init: làm dự án trở thành 1 git Repo
 - git status: trạng thái của dự án
