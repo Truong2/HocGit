@@ -1,0 +1,7 @@
+# Terms
+Repository (Repo) : 1 kho , thư mục dự án
+# Commands
+- git init: làm dự án trở thành 1 git Repo
+- git status: trạng thái của dự án
+- git add : cbi luu lại file đó
+- git reset: ko lưu nữa
