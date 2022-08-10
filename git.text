@@ -6,3 +6,6 @@ Repository (Repo) : 1 kho , thư mục dự án
 - git add : cbi luu lại file đó
 - git reset: ko lưu nữa
 - git commit -m "ghi chú"
+- git log : cho biết commit đã làm
+- git log --oneline: cho biết tất cả commit
+- git checkout: trở lại commit muốn
