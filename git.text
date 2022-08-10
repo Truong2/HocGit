@@ -1,5 +1,6 @@
 # Terms
 Repository (Repo) : 1 kho , thư mục dự án
+branch : Cành ( mặc định là master)
 # Commands
 - git init: làm dự án trở thành 1 git Repo
 - git status: trạng thái của dự án
@@ -9,3 +10,6 @@ Repository (Repo) : 1 kho , thư mục dự án
 - git log : cho biết commit đã làm
 - git log --oneline: cho biết tất cả commit
 - git checkout: trở lại commit muốn
+- git checkout (branch name)
+- git branch: xem tên name
+- git checkout -b (branch name)
