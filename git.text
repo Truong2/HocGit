@@ -20,3 +20,7 @@ Nếu muốn sang nhánh khác thì dùng:
 - git checkout (branch name) : file lưu ở nhánh kia sẽ bị mất do ta trở về nhánh khác
 - git merge (branch name) : gộp lại 1 branch mình muốn làm cha
 - git branch -d (branch name) : xóa branch
+Khi tạo ở nhánh và cái nhánh cha các html hay ... sẽ bị xung đột
+Ta cần lựa chọn 1 trong 2 để dùng vào branch chính
+( dùng git commit) đẻ kiểm tra
+- git push: đẩy lên github
